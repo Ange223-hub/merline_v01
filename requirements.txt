@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+pyttsx3
+speechrecognition
+sounddevice
+insightface
+numpy

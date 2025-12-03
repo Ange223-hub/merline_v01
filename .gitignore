@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+.venv311/
+.venv_stable/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific - EXCLUDE HEAVY FILES
+captures/
+*.pt
+yolov8n.pt
+*.onnx
+.insightface/
+.qodo/
+
+# Logs
+*.log
